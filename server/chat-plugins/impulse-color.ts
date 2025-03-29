@@ -1,5 +1,3 @@
-declare function MD5(input: string): string;
-
 export const UsernameColorPlugin = {
 	colorCache: {} as Record<ID, string>,
 
